@@ -19,9 +19,9 @@ The assignment is to build a tool that will parse and check the emails in a Goog
 
 ## Installation setup:
 Clone the repository to your local machine
-git clone https://github.com/shraddha-gawde/reachInbox-assignment.git
+- git clone https://github.com/Akhilarroj22992923/ReachInEmailAuto.git
 ## Navigate to the root directory of the project directory :
-$ cd server
+$$ cd server
 Run npm install to install all the dependencies
 Create a .env file in the root directory with the same IDs as specified in the documentation.
 Running the server
