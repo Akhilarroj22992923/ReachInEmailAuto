@@ -21,13 +21,13 @@ The assignment is to build a tool that will parse and check the emails in a Goog
 Clone the repository to your local machine
 - git clone https://github.com/Akhilarroj22992923/ReachInEmailAuto.git
 ## Navigate to the root directory of the project directory :
-$$ cd server
-Run npm install to install all the dependencies
-Create a .env file in the root directory with the same IDs as specified in the documentation.
+* cd server
+- Run "npm install" to install all the dependencies
+- Create a .env file in the root directory with the same IDs as specified in the documentation.
 Running the server
 To start the server, run the following command in your terminal
-npm start
+* npm start
 This will start the server at localhost:5000 (or whatever port you have specified). or we can use backend deployed link also.
 
 To start the worker.js file, run the following command in your terminal
-npm run server
+* npm run server
