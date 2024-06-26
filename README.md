@@ -9,19 +9,19 @@ The assignment is to build a tool that will parse and check the emails in a Goog
 - Google APIs
 - Microsoft Graph API
 ## npm packages used:
-1] dotenv
-2] Axios
-3] bullMQ
-4] google-auth-library
-5] ioredis
-6] @microsoft/microsoft-graph-client
-7] @azure/msal-node
+- dotenv
+- Axios
+- bullMQ
+- google-auth-library
+- ioredis
+- @microsoft/microsoft-graph-client
+- @azure/msal-node
 
 ## Installation setup:
 Clone the repository to your local machine
 git clone https://github.com/shraddha-gawde/reachInbox-assignment.git
 ## Navigate to the root directory of the project directory :
-cd server
+$ cd server
 Run npm install to install all the dependencies
 Create a .env file in the root directory with the same IDs as specified in the documentation.
 Running the server
