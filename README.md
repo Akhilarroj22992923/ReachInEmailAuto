@@ -1,14 +1,14 @@
 # ReachInEmailAuto
-##Server
+## Server
 The assignment is to build a tool that will parse and check the emails in a Google and Outlook email ID, and respond to the e-mails based on the context using AI. Use BullMQ as the tasks scheduler This is a server-based application built with Node.js and Express. It uses various packages such as openai for AI functionalities, googleapis for Google APIs, and axios for HTTP requests and bullMQ to process queues.
 
-##Technologies used:
+## Technologies used:
 1] Node.js
 2] Express.js
 3] OpenAI
 4] Google APIs
 5] Microsoft Graph API
-##npm packages used:
+## npm packages used:
 1] dotenv
 2] Axios
 3] bullMQ
@@ -17,10 +17,10 @@ The assignment is to build a tool that will parse and check the emails in a Goog
 6] @microsoft/microsoft-graph-client
 7] @azure/msal-node
 
-##Installation setup:
+## Installation setup:
 Clone the repository to your local machine
 git clone https://github.com/shraddha-gawde/reachInbox-assignment.git
-##Navigate to the root directory of the project directory :
+## Navigate to the root directory of the project directory :
 cd server
 Run npm install to install all the dependencies
 Create a .env file in the root directory with the same IDs as specified in the documentation.
