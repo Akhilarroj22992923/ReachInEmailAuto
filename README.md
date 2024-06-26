@@ -3,11 +3,11 @@
 The assignment is to build a tool that will parse and check the emails in a Google and Outlook email ID, and respond to the e-mails based on the context using AI. Use BullMQ as the tasks scheduler This is a server-based application built with Node.js and Express. It uses various packages such as openai for AI functionalities, googleapis for Google APIs, and axios for HTTP requests and bullMQ to process queues.
 
 ## Technologies used:
-. Node.js
-2] Express.js
-3] OpenAI
-4] Google APIs
-5] Microsoft Graph API
+- Node.js
+- Express.js
+- OpenAI
+- Google APIs
+- Microsoft Graph API
 ## npm packages used:
 1] dotenv
 2] Axios
