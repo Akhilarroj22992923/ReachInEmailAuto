@@ -26,8 +26,7 @@ Clone the repository to your local machine
 - Create a .env file in the root directory with the same IDs as specified in the documentation.
 Running the server
 To start the server, run the following command in your terminal
-* npm start
 This will start the server at localhost:5000 (or whatever port you have specified). or we can use backend deployed link also.
-
+* npm start
 To start the worker.js file, run the following command in your terminal
 * npm run server
